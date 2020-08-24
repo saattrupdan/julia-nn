@@ -1,0 +1,3 @@
+**/*.toml
+**/.ipynb_checkpoints/*
+**/*.swp
